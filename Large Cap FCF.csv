@@ -1,115 +1,115 @@
 Symbol,Company Name,Market Cap,Industry,Sector,FCF Growth 5Y,FCF Growth 3 Y,FCF Growth (Q)
+HPE,Hewlett Packard Enterprise Company,20.21B,Communication Equipment,Technology,188.54%,-,6.48%
+ALB,Albemarle Corporation,14.32B,Specialty Chemicals,Materials,156.13%,-,-85.75%
+GM,General Motors Company,38.89B,Auto Manufacturers,Consumer Discretionary,143.82%,25.07%,1.55%
+ENPH,"Enphase Energy, Inc.",13.41B,Solar,Technology,143.48%,55.42%,-31.86%
+H,Hyatt Hotels Corporation,11.99B,Lodging,Consumer Discretionary,119.02%,-,-
+WPC,W. P. Carey Inc.,12.92B,REIT - Diversified,Real Estate,101.21%,-12.60%,-
+EQT,EQT Corporation,16.45B,Oil & Gas E&P,Energy,100.95%,101.99%,-
+ZS,"Zscaler, Inc.",28.57B,Software - Infrastructure,Technology,95.32%,97.22%,135.03%
+BLDR,"Builders FirstSource, Inc.",16.87B,Building Products & Equipment,Industrials,84.61%,128.37%,-62.07%
+ADSK,"Autodesk, Inc.",43.15B,Software - Application,Technology,83.80%,8.23%,-97.17%
+AMD,"Advanced Micro Devices, Inc.",199.15B,Semiconductors,Technology,78.97%,23.78%,-64.73%
+MRO,Marathon Oil Corporation,14.73B,Oil & Gas E&P,Energy,72.07%,252.27%,-49.11%
+TTD,"The Trade Desk, Inc.",34.14B,Software - Application,Technology,67.42%,65.71%,64.37%
+EXR,Extra Space Storage Inc.,27.68B,REIT - Industrial,Real Estate,66.82%,23.82%,-
+SQ,"Block, Inc.",36.99B,Software - Infrastructure,Technology,61.51%,114.26%,-
+UPS,"United Parcel Service, Inc.",127.94B,Integrated Freight & Logistics,Industrials,60.31%,-6.97%,-40.59%
+POOL,Pool Corporation,13.64B,Industrial Distribution,Industrials,59.22%,27.30%,33.22%
+CSL,Carlisle Companies Incorporated,13.39B,Building Products & Equipment,Industrials,57.05%,24.75%,27.80%
+ELV,Elevance Health Inc.,112.09B,Healthcare Plans,Healthcare,55.84%,5.07%,-50.34%
+PSTG,"Pure Storage, Inc.",11.39B,Computer Hardware,Technology,54.81%,65.00%,-1.23%
+DXCM,"DexCom, Inc.",43.80B,Medical Devices,Healthcare,50.98%,23.65%,18.27%
+MGM,MGM Resorts International,13.61B,Resorts & Casinos,Consumer Discretionary,50.54%,-,166.97%
+HUBS,"HubSpot, Inc.",23.73B,Software - Application,Technology,48.78%,200.42%,70.30%
+WMB,"The Williams Companies, Inc.",44.10B,Oil & Gas Midstream,Energy,47.49%,9.30%,-16.95%
+FNF,"Fidelity National Financial, Inc.",12.15B,Insurance - Specialty,Financials,47.02%,61.52%,-28.25%
+SMCI,"Super Micro Computer, Inc.",15.85B,Computer Hardware,Technology,46.69%,141.92%,-11.56%
+OKE,"ONEOK, Inc.",38.87B,Oil & Gas Midstream,Energy,45.74%,-,80.62%
+WRB,W. R. Berkley Corporation,18.50B,Insurance - Property & Casualty,Financials,45.38%,28.35%,41.91%
+INCY,Incyte Corporation,11.80B,Biotechnology,Healthcare,45.31%,-,-49.04%
+WAB,Westinghouse Air Brake Technologies Corporation,20.86B,Railroads,Industrials,45.20%,0.53%,124.42%
+VLO,Valero Energy Corporation,42.43B,Oil & Gas Refining & Marketing,Energy,44.18%,217.08%,78.46%
+APO,"Apollo Global Management, Inc.",51.41B,Asset Management,Financials,43.28%,50.07%,-
+RS,Reliance Steel & Aluminum Co.,15.50B,Steel,Materials,43.20%,10.91%,-36.95%
+DHI,"D.R. Horton, Inc.",42.24B,Residential Construction,Consumer Discretionary,43.16%,49.29%,89.48%
+FCNCA,"First Citizens BancShares, Inc.",20.71B,Banks - Regional,Financials,43.07%,82.12%,181.84%
+WDAY,"Workday, Inc.",62.01B,Software - Application,Technology,41.71%,27.77%,12.09%
+NBIX,"Neurocrine Biosciences, Inc.",10.99B,Drug Manufacturers - Specialty & Generic,Healthcare,40.47%,20.06%,103.38%
+MPWR,"Monolithic Power Systems, Inc.",26.41B,Semiconductors,Technology,40.26%,34.54%,-
+MPLX,MPLX LP,36.19B,Oil & Gas Midstream,Energy,40.00%,15.68%,26.83%
+PWR,"Quanta Services, Inc.",26.73B,Engineering & Construction,Industrials,39.76%,-15.79%,12.38%
+LMT,Lockheed Martin Corporation,110.58B,Aerospace & Defense,Industrials,39.28%,-2.07%,-7.37%
+NVDA,NVIDIA Corporation,"1,195.91B",Semiconductors,Technology,38.86%,60.58%,-
+RCL,Royal Caribbean Cruises Ltd.,27.35B,Travel Services,Consumer Discretionary,38.40%,-,-
+LYV,"Live Nation Entertainment, Inc.",19.99B,Entertainment,Communication Services,38.06%,-,-
+MPC,Marathon Petroleum Corporation,56.78B,Oil & Gas Refining & Marketing,Energy,37.76%,-,149.56%
+AIG,"American International Group, Inc.",45.69B,Insurance - Diversified,Financials,36.74%,-,4.19%
+EOG,"EOG Resources, Inc.",71.36B,Oil & Gas E&P,Energy,36.58%,42.94%,-67.10%
+KHC,The Kraft Heinz Company,42.92B,Packaged Foods,Consumer Staples,36.42%,-16.46%,43.80%
+SNPS,"Synopsys, Inc.",83.26B,Software - Infrastructure,Technology,36.22%,21.99%,-24.03%
+VICI,VICI Properties Inc.,29.82B,REIT - Diversified,Real Estate,35.75%,39.20%,9.46%
+NOW,"ServiceNow, Inc.",138.71B,Software - Application,Technology,34.75%,28.43%,69.90%
+CMG,"Chipotle Mexican Grill, Inc.",60.85B,Restaurants,Consumer Discretionary,34.08%,50.54%,64.06%
+EME,"EMCOR Group, Inc.",10.27B,Engineering & Construction,Industrials,33.73%,-0.18%,-3.72%
+NUE,Nucor Corporation,39.46B,Steel,Materials,33.52%,69.79%,-13.87%
+ANET,"Arista Networks, Inc.",68.61B,Computer Hardware,Technology,32.45%,20.37%,456.15%
+VRSK,"Verisk Analytics, Inc.",35.16B,Consulting Services,Industrials,32.38%,53.04%,-8.68%
+VRTX,Vertex Pharmaceuticals Incorporated,90.16B,Biotechnology,Healthcare,31.72%,12.18%,36.23%
+LEN,Lennar Corporation,35.78B,Residential Construction,Consumer Discretionary,31.26%,8.66%,98.69%
+LEN.B,Lennar Corporation,35.63B,Residential Construction,Consumer Discretionary,31.26%,8.66%,98.69%
+TPL,Texas Pacific Land Corporation,12.54B,Oil & Gas E&P,Energy,30.68%,24.74%,-9.22%
+CPRT,"Copart, Inc.",49.40B,Auto & Truck Dealerships,Consumer Discretionary,30.66%,37.63%,34.46%
+OC,Owens Corning,11.93B,Building Products & Equipment,Industrials,29.92%,12.36%,58.31%
+FTNT,"Fortinet, Inc.",41.11B,Software - Infrastructure,Technology,29.76%,35.11%,21.74%
+OXY,Occidental Petroleum Corporation,52.48B,Oil & Gas E&P,Energy,29.39%,-,-54.33%
+SAIA,"Saia, Inc.",11.18B,Trucking,Industrials,28.66%,19.16%,-3.68%
+TW,Tradeweb Markets Inc.,22.56B,Capital Markets,Financials,28.52%,19.29%,5.46%
+FI,"Fiserv, Inc.",75.73B,Information Technology Services,Technology,28.21%,6.67%,60.53%
+VST,Vistra Corp.,12.61B,Utilities - Independent Power Producers,Utilities,28.17%,16.35%,132.89%
+CRM,"Salesforce, Inc.",219.33B,Software - Application,Technology,28.12%,35.25%,1087.83%
+CQP,"Cheniere Energy Partners, L.P.",28.39B,Oil & Gas Midstream,Energy,28.07%,57.35%,-14.21%
 GOOGL,Alphabet Inc.,"1,719.93B",Internet Content & Information,Communication Services,27.76%,31.65%,40.58%
 GOOG,Alphabet Inc.,"1,719.83B",Internet Content & Information,Communication Services,27.76%,31.65%,40.58%
-NVDA,NVIDIA Corporation,"1,195.91B",Semiconductors,Technology,38.86%,60.58%,-
-UNH,UnitedHealth Group Incorporated,501.78B,Healthcare Plans,Healthcare,25.17%,9.47%,-65.98%
-CRM,"Salesforce, Inc.",219.33B,Software - Application,Technology,28.12%,35.25%,1087.83%
-AMD,"Advanced Micro Devices, Inc.",199.15B,Semiconductors,Technology,78.97%,23.78%,-64.73%
-QCOM,QUALCOMM Incorporated,143.29B,Semiconductors,Technology,26.14%,31.30%,365.48%
-NOW,"ServiceNow, Inc.",138.71B,Software - Application,Technology,34.75%,28.43%,69.90%
-UPS,"United Parcel Service, Inc.",127.94B,Integrated Freight & Logistics,Industrials,60.31%,-6.97%,-40.59%
-CAT,Caterpillar Inc.,125.59B,Farm & Heavy Construction Machinery,Industrials,23.90%,21.24%,68.48%
-ELV,Elevance Health Inc.,112.09B,Healthcare Plans,Healthcare,55.84%,5.07%,-50.34%
-LMT,Lockheed Martin Corporation,110.58B,Aerospace & Defense,Industrials,39.28%,-2.07%,-7.37%
-BMY,Bristol-Myers Squibb Company,99.70B,Drug Manufacturers - General,Healthcare,25.78%,-1.30%,28.17%
-VRTX,Vertex Pharmaceuticals Incorporated,90.16B,Biotechnology,Healthcare,31.72%,12.18%,36.23%
-CVS,CVS Health Corporation,88.64B,Healthcare Plans,Healthcare,21.48%,-3.66%,-74.59%
-REGN,"Regeneron Pharmaceuticals, Inc.",85.23B,Biotechnology,Healthcare,23.12%,42.77%,92.91%
-PANW,"Palo Alto Networks, Inc.",84.76B,Software - Infrastructure,Technology,26.50%,36.53%,24.40%
-CI,Cigna Corporation,83.58B,Healthcare Plans,Healthcare,23.82%,11.95%,-17.72%
-SNPS,"Synopsys, Inc.",83.26B,Software - Infrastructure,Technology,36.22%,21.99%,-24.03%
-BSX,Boston Scientific Corporation,81.59B,Medical Devices,Healthcare,20.49%,11.70%,52.21%
-KLAC,KLA Corporation,76.26B,Semiconductor Equipment & Materials,Technology,22.56%,25.69%,-12.03%
-FI,"Fiserv, Inc.",75.73B,Information Technology Services,Technology,28.21%,6.67%,60.53%
-EOG,"EOG Resources, Inc.",71.36B,Oil & Gas E&P,Energy,36.58%,42.94%,-67.10%
-ANET,"Arista Networks, Inc.",68.61B,Computer Hardware,Technology,32.45%,20.37%,456.15%
-WDAY,"Workday, Inc.",62.01B,Software - Application,Technology,41.71%,27.77%,12.09%
-CMG,"Chipotle Mexican Grill, Inc.",60.85B,Restaurants,Consumer Discretionary,34.08%,50.54%,64.06%
-MPC,Marathon Petroleum Corporation,56.78B,Oil & Gas Refining & Marketing,Energy,37.76%,-,149.56%
-OXY,Occidental Petroleum Corporation,52.48B,Oil & Gas E&P,Energy,29.39%,-,-54.33%
-APO,"Apollo Global Management, Inc.",51.41B,Asset Management,Financials,43.28%,50.07%,-
-CPRT,"Copart, Inc.",49.40B,Auto & Truck Dealerships,Consumer Discretionary,30.66%,37.63%,34.46%
 PCAR,PACCAR Inc,47.96B,Farm & Heavy Construction Machinery,Industrials,27.47%,27.81%,197.84%
-AIG,"American International Group, Inc.",45.69B,Insurance - Diversified,Financials,36.74%,-,4.19%
-MCHP,Microchip Technology Incorporated,44.53B,Semiconductors,Technology,20.79%,23.27%,-20.65%
-WMB,"The Williams Companies, Inc.",44.10B,Oil & Gas Midstream,Energy,47.49%,9.30%,-16.95%
-DXCM,"DexCom, Inc.",43.80B,Medical Devices,Healthcare,50.98%,23.65%,18.27%
-ADSK,"Autodesk, Inc.",43.15B,Software - Application,Technology,83.80%,8.23%,-97.17%
-KHC,The Kraft Heinz Company,42.92B,Packaged Foods,Consumer Staples,36.42%,-16.46%,43.80%
-VLO,Valero Energy Corporation,42.43B,Oil & Gas Refining & Marketing,Energy,44.18%,217.08%,78.46%
-DHI,"D.R. Horton, Inc.",42.24B,Residential Construction,Consumer Discretionary,43.16%,49.29%,89.48%
-FTNT,"Fortinet, Inc.",41.11B,Software - Infrastructure,Technology,29.76%,35.11%,21.74%
-COR,Cencora,40.36B,Medical Distribution,Healthcare,26.10%,22.60%,66.65%
-CNC,Centene Corporation,39.50B,Healthcare Plans,Healthcare,26.12%,75.52%,-71.31%
-NUE,Nucor Corporation,39.46B,Steel,Materials,33.52%,69.79%,-13.87%
-GM,General Motors Company,38.89B,Auto Manufacturers,Consumer Discretionary,143.82%,25.07%,1.55%
-OKE,"ONEOK, Inc.",38.87B,Oil & Gas Midstream,Energy,45.74%,-,80.62%
-SQ,"Block, Inc.",36.99B,Software - Infrastructure,Technology,61.51%,114.26%,-
-MPLX,MPLX LP,36.19B,Oil & Gas Midstream,Energy,40.00%,15.68%,26.83%
-BK,The Bank of New York Mellon Corporation,36.02B,Asset Management,Financials,25.82%,59.21%,30.41%
-LEN,Lennar Corporation,35.78B,Residential Construction,Consumer Discretionary,31.26%,8.66%,98.69%
-AMP,"Ameriprise Financial, Inc.",35.71B,Asset Management,Financials,22.40%,-12.11%,-34.21%
-LEN.B,Lennar Corporation,35.63B,Residential Construction,Consumer Discretionary,31.26%,8.66%,98.69%
-LHX,"L3Harris Technologies, Inc.",35.62B,Aerospace & Defense,Industrials,22.14%,-13.77%,-25.47%
-VRSK,"Verisk Analytics, Inc.",35.16B,Consulting Services,Industrials,32.38%,53.04%,-8.68%
-TTD,"The Trade Desk, Inc.",34.14B,Software - Application,Technology,67.42%,65.71%,64.37%
-IT,"Gartner, Inc.",34.01B,Information Technology Services,Technology,24.00%,18.66%,6.95%
-VICI,VICI Properties Inc.,29.82B,REIT - Diversified,Real Estate,35.75%,39.20%,9.46%
-GPN,Global Payments Inc.,29.65B,Specialty Business Services,Industrials,23.46%,12.72%,30.43%
-IR,Ingersoll Rand Inc.,28.72B,Specialty Industrial Machinery,Industrials,23.29%,22.58%,46.02%
-ZS,"Zscaler, Inc.",28.57B,Software - Infrastructure,Technology,95.32%,97.22%,135.03%
-CQP,"Cheniere Energy Partners, L.P.",28.39B,Oil & Gas Midstream,Energy,28.07%,57.35%,-14.21%
 VEEV,Veeva Systems Inc.,27.97B,Health Information Services,Healthcare,26.89%,20.33%,-44.04%
-EXR,Extra Space Storage Inc.,27.68B,REIT - Industrial,Real Estate,66.82%,23.82%,-
-RCL,Royal Caribbean Cruises Ltd.,27.35B,Travel Services,Consumer Discretionary,38.40%,-,-
-PWR,"Quanta Services, Inc.",26.73B,Engineering & Construction,Industrials,39.76%,-15.79%,12.38%
-MPWR,"Monolithic Power Systems, Inc.",26.41B,Semiconductors,Technology,40.26%,34.54%,-
-WBD,"Warner Bros. Discovery, Inc.",26.31B,Entertainment,Communication Services,22.03%,20.76%,-
-SPLK,Splunk Inc.,25.58B,Software - Infrastructure,Technology,23.34%,-,71.90%
+PANW,"Palo Alto Networks, Inc.",84.76B,Software - Infrastructure,Technology,26.50%,36.53%,24.40%
+QCOM,QUALCOMM Incorporated,143.29B,Semiconductors,Technology,26.14%,31.30%,365.48%
+CNC,Centene Corporation,39.50B,Healthcare Plans,Healthcare,26.12%,75.52%,-71.31%
+COR,Cencora,40.36B,Medical Distribution,Healthcare,26.10%,22.60%,66.65%
+WSM,"Williams-Sonoma, Inc.",11.82B,Specialty Retail,Consumer Discretionary,25.91%,4.86%,108.62%
+BK,The Bank of New York Mellon Corporation,36.02B,Asset Management,Financials,25.82%,59.21%,30.41%
+CFG,"Citizens Financial Group, Inc.",12.26B,Banks - Regional,Financials,25.82%,-,-66.55%
+BMY,Bristol-Myers Squibb Company,99.70B,Drug Manufacturers - General,Healthcare,25.78%,-1.30%,28.17%
+UNH,UnitedHealth Group Incorporated,501.78B,Healthcare Plans,Healthcare,25.17%,9.47%,-65.98%
+SWK,"Stanley Black & Decker, Inc.",14.05B,Tools & Accessories,Industrials,24.33%,-22.33%,-
+IT,"Gartner, Inc.",34.01B,Information Technology Services,Technology,24.00%,18.66%,6.95%
+CAT,Caterpillar Inc.,125.59B,Farm & Heavy Construction Machinery,Industrials,23.90%,21.24%,68.48%
+CI,Cigna Corporation,83.58B,Healthcare Plans,Healthcare,23.82%,11.95%,-17.72%
+ALGN,"Align Technology, Inc.",16.65B,Medical Devices,Healthcare,23.67%,24.60%,38.94%
+GPN,Global Payments Inc.,29.65B,Specialty Business Services,Industrials,23.46%,12.72%,30.43%
 KEYS,"Keysight Technologies, Inc.",24.26B,Scientific & Technical Instruments,Technology,23.43%,10.47%,-
-HUBS,"HubSpot, Inc.",23.73B,Software - Application,Technology,48.78%,200.42%,70.30%
-TW,Tradeweb Markets Inc.,22.56B,Capital Markets,Financials,28.52%,19.29%,5.46%
-TSCO,Tractor Supply Company,21.44B,Specialty Retail,Consumer Discretionary,20.19%,-8.75%,-
-WAB,Westinghouse Air Brake Technologies Corporation,20.86B,Railroads,Industrials,45.20%,0.53%,124.42%
-FCNCA,"First Citizens BancShares, Inc.",20.71B,Banks - Regional,Financials,43.07%,82.12%,181.84%
-HPE,Hewlett Packard Enterprise Company,20.21B,Communication Equipment,Technology,188.54%,-,6.48%
-LYV,"Live Nation Entertainment, Inc.",19.99B,Entertainment,Communication Services,38.06%,-,-
-CTRA,Coterra Energy Inc.,19.68B,Oil & Gas E&P,Energy,20.64%,197.09%,-83.67%
-NVR,"NVR, Inc.",19.64B,Residential Construction,Consumer Discretionary,20.47%,25.04%,8.05%
+SPLK,Splunk Inc.,25.58B,Software - Infrastructure,Technology,23.34%,-,71.90%
+IR,Ingersoll Rand Inc.,28.72B,Specialty Industrial Machinery,Industrials,23.29%,22.58%,46.02%
+MAA,"Mid-America Apartment Communities, Inc.",14.28B,REIT - Residential,Real Estate,23.17%,27.37%,-
+LKQ,LKQ Corporation,12.07B,Auto Parts,Consumer Discretionary,23.17%,1.35%,53.10%
+REGN,"Regeneron Pharmaceuticals, Inc.",85.23B,Biotechnology,Healthcare,23.12%,42.77%,92.91%
 MKL,Markel Corporation,18.88B,Insurance - Property & Casualty,Financials,23.00%,14.95%,2.26%
 PTC,PTC Inc.,18.56B,Software - Application,Technology,22.63%,40.07%,51.78%
-STLD,"Steel Dynamics, Inc.",18.54B,Steel,Materials,20.69%,111.31%,-55.75%
-WRB,W. R. Berkley Corporation,18.50B,Insurance - Property & Casualty,Financials,45.38%,28.35%,41.91%
-AXON,"Axon Enterprise, Inc.",17.15B,Aerospace & Defense,Industrials,22.28%,-,83.69%
-DECK,Deckers Outdoor Corporation,16.91B,Footwear & Accessories,Consumer Discretionary,20.25%,19.68%,-
-BLDR,"Builders FirstSource, Inc.",16.87B,Building Products & Equipment,Industrials,84.61%,128.37%,-62.07%
-ALGN,"Align Technology, Inc.",16.65B,Medical Devices,Healthcare,23.67%,24.60%,38.94%
-EQT,EQT Corporation,16.45B,Oil & Gas E&P,Energy,100.95%,101.99%,-
-SMCI,"Super Micro Computer, Inc.",15.85B,Computer Hardware,Technology,46.69%,141.92%,-11.56%
-RS,Reliance Steel & Aluminum Co.,15.50B,Steel,Materials,43.20%,10.91%,-36.95%
-WSO,"Watsco, Inc.",15.39B,Industrial Distribution,Industrials,21.15%,-3.55%,23.21%
-AVY,Avery Dennison Corporation,15.30B,Business Equipment & Supplies,Industrials,22.09%,3.22%,86.19%
-EPAM,"EPAM Systems, Inc.",14.86B,Information Technology Services,Technology,21.87%,9.24%,-9.59%
-MRO,Marathon Oil Corporation,14.73B,Oil & Gas E&P,Energy,72.07%,252.27%,-49.11%
-ALB,Albemarle Corporation,14.32B,Specialty Chemicals,Materials,156.13%,-,-85.75%
-MAA,"Mid-America Apartment Communities, Inc.",14.28B,REIT - Residential,Real Estate,23.17%,27.37%,-
-SWK,"Stanley Black & Decker, Inc.",14.05B,Tools & Accessories,Industrials,24.33%,-22.33%,-
-POOL,Pool Corporation,13.64B,Industrial Distribution,Industrials,59.22%,27.30%,33.22%
-MGM,MGM Resorts International,13.61B,Resorts & Casinos,Consumer Discretionary,50.54%,-,166.97%
-ENPH,"Enphase Energy, Inc.",13.41B,Solar,Technology,143.48%,55.42%,-31.86%
-CSL,Carlisle Companies Incorporated,13.39B,Building Products & Equipment,Industrials,57.05%,24.75%,27.80%
-WPC,W. P. Carey Inc.,12.92B,REIT - Diversified,Real Estate,101.21%,-12.60%,-
-VST,Vistra Corp.,12.61B,Utilities - Independent Power Producers,Utilities,28.17%,16.35%,132.89%
-TPL,Texas Pacific Land Corporation,12.54B,Oil & Gas E&P,Energy,30.68%,24.74%,-9.22%
-CFG,"Citizens Financial Group, Inc.",12.26B,Banks - Regional,Financials,25.82%,-,-66.55%
-FNF,"Fidelity National Financial, Inc.",12.15B,Insurance - Specialty,Financials,47.02%,61.52%,-28.25%
-LKQ,LKQ Corporation,12.07B,Auto Parts,Consumer Discretionary,23.17%,1.35%,53.10%
-H,Hyatt Hotels Corporation,11.99B,Lodging,Consumer Discretionary,119.02%,-,-
-OC,Owens Corning,11.93B,Building Products & Equipment,Industrials,29.92%,12.36%,58.31%
-WSM,"Williams-Sonoma, Inc.",11.82B,Specialty Retail,Consumer Discretionary,25.91%,4.86%,108.62%
-INCY,Incyte Corporation,11.80B,Biotechnology,Healthcare,45.31%,-,-49.04%
-PSTG,"Pure Storage, Inc.",11.39B,Computer Hardware,Technology,54.81%,65.00%,-1.23%
-SAIA,"Saia, Inc.",11.18B,Trucking,Industrials,28.66%,19.16%,-3.68%
-NBIX,"Neurocrine Biosciences, Inc.",10.99B,Drug Manufacturers - Specialty & Generic,Healthcare,40.47%,20.06%,103.38%
+KLAC,KLA Corporation,76.26B,Semiconductor Equipment & Materials,Technology,22.56%,25.69%,-12.03%
+AMP,"Ameriprise Financial, Inc.",35.71B,Asset Management,Financials,22.40%,-12.11%,-34.21%
 FIVE,"Five Below, Inc.",10.60B,Specialty Retail,Consumer Discretionary,22.32%,11.80%,-
-EME,"EMCOR Group, Inc.",10.27B,Engineering & Construction,Industrials,33.73%,-0.18%,-3.72%
+AXON,"Axon Enterprise, Inc.",17.15B,Aerospace & Defense,Industrials,22.28%,-,83.69%
+LHX,"L3Harris Technologies, Inc.",35.62B,Aerospace & Defense,Industrials,22.14%,-13.77%,-25.47%
+AVY,Avery Dennison Corporation,15.30B,Business Equipment & Supplies,Industrials,22.09%,3.22%,86.19%
+WBD,"Warner Bros. Discovery, Inc.",26.31B,Entertainment,Communication Services,22.03%,20.76%,-
+EPAM,"EPAM Systems, Inc.",14.86B,Information Technology Services,Technology,21.87%,9.24%,-9.59%
+CVS,CVS Health Corporation,88.64B,Healthcare Plans,Healthcare,21.48%,-3.66%,-74.59%
+WSO,"Watsco, Inc.",15.39B,Industrial Distribution,Industrials,21.15%,-3.55%,23.21%
+MCHP,Microchip Technology Incorporated,44.53B,Semiconductors,Technology,20.79%,23.27%,-20.65%
+STLD,"Steel Dynamics, Inc.",18.54B,Steel,Materials,20.69%,111.31%,-55.75%
+CTRA,Coterra Energy Inc.,19.68B,Oil & Gas E&P,Energy,20.64%,197.09%,-83.67%
+BSX,Boston Scientific Corporation,81.59B,Medical Devices,Healthcare,20.49%,11.70%,52.21%
+NVR,"NVR, Inc.",19.64B,Residential Construction,Consumer Discretionary,20.47%,25.04%,8.05%
+DECK,Deckers Outdoor Corporation,16.91B,Footwear & Accessories,Consumer Discretionary,20.25%,19.68%,-
+TSCO,Tractor Supply Company,21.44B,Specialty Retail,Consumer Discretionary,20.19%,-8.75%,-
