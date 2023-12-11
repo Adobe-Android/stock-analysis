@@ -1,0 +1,69 @@
+Ticker,Name,Industry,Dividend Yield,Dividend Safety
+WBA,Walgreens Boots Alliance,Drug Retail,9.36%,Unsafe
+LEG,Leggett & Platt,Home Furnishings,7.56%,Borderline Safe
+MMM,3M,Industrial Conglomerates,5.90%,Unsafe
+ABBV,AbbVie,Biotechnology,4.29%,Safe
+AMCR,Amcor,Paper and Plastic Packaging Products and Materials,5.34%,Borderline Safe
+ABT,Abbott Laboratories,Health Care Equipment,1.95%,Very Safe
+ADM,Archer-Daniels-Midland,Agricultural Products and Services,2.43%,Very Safe
+ADP,Automatic Data Processing,Human Resource and Employment Services,2.42%,Very Safe
+AFL,Aflac,Life and Health Insurance,2.42%,Very Safe
+ALB,Albemarle,Specialty Chemicals,1.41%,Very Safe
+AOS,A. O. Smith,Building Products,1.68%,Very Safe
+APD,Air Products and Chemicals,Industrial Gases,2.67%,Very Safe
+ATO,Atmos Energy,Gas Utilities,2.83%,Very Safe
+BDX,"Becton, Dickinson and Company",Health Care Equipment,1.63%,Very Safe
+BEN,Franklin Resources,Asset Management and Custody Banks,4.74%,Safe
+BF.B,Brown-Forman,Distillers and Vintners,1.45%,Very Safe
+BRO,Brown & Brown,Insurance Brokers,0.70%,Very Safe
+CAH,Cardinal Health,Health Care Distributors,1.87%,Safe
+CAT,Caterpillar,Construction Machinery and Heavy Transportation Equipment,2.04%,Very Safe
+CB,Chubb,Property and Casualty Insurance,1.52%,Very Safe
+CHD,Church & Dwight,Household Products,1.17%,Very Safe
+CHRW,C.H. Robinson,Air Freight and Logistics,2.87%,Very Safe
+CINF,Cincinnati Financial,Property and Casualty Insurance,2.91%,Safe
+CL,Colgate-Palmolive,Household Products,2.47%,Very Safe
+CLX,Clorox,Household Products,3.39%,Safe
+CTAS,Cintas,Diversified Support Services,0.98%,Very Safe
+CVX,Chevron,Integrated Oil and Gas,4.23%,Very Safe
+DOV,Dover,Industrial Machinery and Supplies and Components,1.44%,Very Safe
+ECL,Ecolab,Specialty Chemicals,1.12%,Very Safe
+ED,Consolidated Edison,Multi-Utilities,3.55%,Very Safe
+EMR,Emerson Electric,Electrical Components and Equipment,2.38%,Safe
+ESS,Essex Property Trust,Multi-Family Residential REITs,4.17%,Very Safe
+EXPD,Expeditors International of Washington,Air Freight and Logistics,1.14%,Very Safe
+FRT,Federal Realty,Retail REITs,4.37%,Safe
+GD,General Dynamics,Aerospace and Defense,2.10%,Very Safe
+GPC,Genuine Parts Company,Distributors,2.84%,Safe
+GWW,W.W. Grainger,Trading Companies and Distributors,0.93%,Very Safe
+HRL,Hormel Foods,Packaged Foods and Meats,3.61%,Very Safe
+IBM,International Business Machines,IT Consulting and Other Services,4.11%,Safe
+ITW,Illinois Tool Works,Industrial Machinery and Supplies and Components,2.29%,Very Safe
+JNJ,Johnson & Johnson,Pharmaceuticals,3.00%,Very Safe
+KMB,Kimberly-Clark,Household Products,3.89%,Very Safe
+KO,Coca-Cola,Soft Drinks and Non-alcoholic Beverages,3.14%,Safe
+KVUE,Kenvue,Personal Care Products,3.97%,Safe
+LIN,Linde,Industrial Gases,1.26%,Very Safe
+LOW,Lowe's,Home Improvement Retail,2.14%,Very Safe
+MCD,McDonald's,Restaurants,2.33%,Safe
+MDT,Medtronic,Health Care Equipment,3.50%,Very Safe
+MKC,McCormick & Company,Packaged Foods and Meats,2.52%,Safe
+NDSN,Nordson Corporation,Industrial Machinery and Supplies and Components,1.14%,Very Safe
+NEE,NextEra Energy,Electric Utilities,3.21%,Very Safe
+NUE,Nucor,Steel,1.23%,Very Safe
+O,Realty Income,Retail REITs,5.59%,Safe
+PEP,PepsiCo,Soft Drinks and Non-alcoholic Beverages,3.01%,Very Safe
+PG,Procter & Gamble,Household Products,2.56%,Very Safe
+PNR,Pentair,Industrial Machinery and Supplies and Components,1.35%,Very Safe
+PPG,PPG Industries,Specialty Chemicals,1.82%,Very Safe
+ROP,Roper Technologies,Application Software,0.56%,Very Safe
+SHW,Sherwin-Williams,Specialty Chemicals,0.86%,Very Safe
+SJM,J.M. Smucker,Packaged Foods and Meats,3.65%,Safe
+SPGI,S&P Global,Financial Exchanges and Data,0.85%,Very Safe
+SWK,Stanley Black & Decker,Industrial Machinery and Supplies and Components,3.55%,Safe
+SYY,Sysco,Food Distributors,2.73%,Safe
+TGT,Target,Consumer Staples Merchandise Retail,3.31%,Very Safe
+TROW,T. Rowe Price,Asset Management and Custody Banks,4.85%,Safe
+WMT,Walmart,Consumer Staples Merchandise Retail,1.46%,Very Safe
+WST,West Pharmaceutical Services,Life Sciences Tools and Services,0.23%,Very Safe
+XOM,Exxon Mobil,Integrated Oil and Gas,3.78%,Safe

@@ -1,0 +1,244 @@
+Ticker,Name,Industry,Dividend Yield,Dividend Safety
+NUS,Nu Skin Enterprises,Personal Care Products,9.08%,Unsafe
+WHR,Whirlpool,Household Appliances,6.42%,Borderline Safe
+HAS,Hasbro,Leisure Products,5.84%,Borderline Safe
+HBNC,Horizon Bancorp,Regional Banks,5.53%,
+ABM,ABM Industries Incorporated,Environmental and Facilities Services,2.07%,Safe
+ABT,Abbott Laboratories,Health Care Equipment,1.95%,Very Safe
+ACN,Accenture,IT Consulting and Other Services,1.52%,Very Safe
+ADI,Analog Devices,Semiconductors,1.88%,Safe
+THFF,First Financial Corporation,Regional Banks,4.51%,
+ADM,Archer-Daniels-Midland,Agricultural Products and Services,2.44%,Very Safe
+PNC,PNC Financial Services,Diversified Banks,4.42%,Borderline Safe
+SMG,Scotts Miracle-Gro,Fertilizers and Agricultural Chemicals,4.34%,Borderline Safe
+IFF,International Flavors & Fragrances,Specialty Chemicals,4.30%,Borderline Safe
+CATC,Cambridge Bancorp,Regional Banks,4.26%,
+PLOW,Douglas Dynamics,Construction Machinery and Heavy Transportation Equipment,4.21%,Borderline Safe
+ADP,Automatic Data Processing,Human Resource and Employment Services,2.40%,Very Safe
+TMP,Tompkins Financial Corporation,Regional Banks,4.17%,Borderline Safe
+TRN,Trinity Industries,Construction Machinery and Heavy Transportation Equipment,4.03%,Borderline Safe
+AUB,Atlantic Union Bankshares Corporation,Regional Banks,3.99%,
+HMN,Horace Mann Educators Corporation,Multi-line Insurance,3.95%,
+AFG,American Financial,Property and Casualty Insurance,2.44%,Safe
+AFL,Aflac,Life and Health Insurance,2.42%,Very Safe
+AIT,Applied Industrial Technologies,Trading Companies and Distributors,0.84%,Safe
+AIZ,Assurant,Multi-line Insurance,1.68%,Safe
+CNS,Cohen & Steers,Asset Management and Custody Banks,3.74%,Borderline Safe
+STT,State Street,Asset Management and Custody Banks,3.74%,Borderline Safe
+AJG,Arthur J. Gallagher & Co.,Insurance Brokers,0.90%,Very Safe
+ALB,Albemarle,Specialty Chemicals,1.35%,Very Safe
+ALL,Allstate,Property and Casualty Insurance,2.56%,Safe
+MNRO,Monro,Automotive Retail,3.70%,
+INDB,Independent Bank Corp.,Regional Banks,3.65%,
+AMP,Ameriprise Financial,Asset Management and Custody Banks,1.53%,Very Safe
+AOS,A. O. Smith,Building Products,1.67%,Very Safe
+APD,Air Products and Chemicals,Industrial Gases,2.67%,Very Safe
+ATO,Atmos Energy,Gas Utilities,2.83%,Very Safe
+ATR,AptarGroup,"Metal, Glass and Plastic Containers",1.29%,Very Safe
+ATRI,Atrion Corporation,Health Care Supplies,2.83%,Safe
+AVGO,Broadcom,Semiconductors,2.00%,Safe
+BK,Bank of New York Mellon,Asset Management and Custody Banks,3.47%,Borderline Safe
+AVY,Avery Dennison Corporation,Paper and Plastic Packaging Products and Materials,1.68%,Safe
+AWK,American Water Works,Water Utilities,2.15%,Safe
+CMS,CMS Energy,Multi-Utilities,3.40%,Borderline Safe
+AWR,American States Water,Water Utilities,2.09%,Very Safe
+BANF,BancFirst,Regional Banks,1.91%,Very Safe
+WABC,Westamerica Bancorporation,Regional Banks,3.28%,
+BBY,Best Buy,Computer and Electronics Retail,4.94%,Safe
+BCPC,Balchem Corporation,Specialty Chemicals,0.55%,Very Safe
+BDX,"Becton, Dickinson and Company",Health Care Equipment,1.63%,Very Safe
+HOMB,"Home Bancshares, Inc. (Conway, AR)",Regional Banks,3.04%,
+BF.B,Brown-Forman,Distillers and Vintners,1.55%,Very Safe
+BLK,BlackRock,Asset Management and Custody Banks,2.65%,Very Safe
+BMI,Badger Meter,Electronic Equipment and Instruments,0.72%,Very Safe
+BMY,Bristol-Myers Squibb,Pharmaceuticals,4.54%,Safe
+BR,Broadridge Financial Solutions,Data Processing and Outsourced Services,1.63%,Safe
+BRC,Brady Corporation,Commercial Printing,1.64%,Very Safe
+BRO,Brown & Brown,Insurance Brokers,0.70%,Very Safe
+CASS,Cass Information Systems,Transaction and Payment Processing Services,2.86%,Very Safe
+BOKF,BOK Financial Corporation,Regional Banks,2.86%,
+CASY,Casey's General Stores,Food Retail,0.62%,Very Safe
+CAT,Caterpillar,Construction Machinery and Heavy Transportation Equipment,2.01%,Very Safe
+CB,Chubb,Property and Casualty Insurance,1.51%,Very Safe
+CBOE,Cboe Global Markets,Financial Exchanges and Data,1.21%,Very Safe
+CBSH,Commerce Bancshares,Regional Banks,2.10%,Very Safe
+CBU,Community Bank,Regional Banks,3.80%,Very Safe
+CE,Celanese,Specialty Chemicals,2.00%,Safe
+DFS,Discover Financial,Consumer Finance,2.78%,Borderline Safe
+CHD,Church & Dwight,Household Products,1.17%,Very Safe
+CHRW,C.H. Robinson,Air Freight and Logistics,2.85%,Very Safe
+CINF,Cincinnati Financial,Property and Casualty Insurance,2.91%,Safe
+CL,Colgate-Palmolive,Household Products,2.47%,Very Safe
+NHC,National HealthCare Corporation,Health Care Facilities,2.72%,
+CLX,Clorox,Household Products,3.38%,Safe
+CMCSA,Comcast,Cable and Satellite,2.77%,Very Safe
+CME,CME Group,Financial Exchanges and Data,2.02%,Very Safe
+CMI,Cummins,Construction Machinery and Heavy Transportation Equipment,2.94%,Very Safe
+COR,Cencora,Health Care Distributors,1.00%,Very Safe
+JPM,JPMorgan Chase,Diversified Banks,2.64%,Borderline Safe
+COST,Costco,Consumer Staples Merchandise Retail,0.67%,Very Safe
+IBOC,International Bancshares Corporation,Regional Banks,2.58%,
+CPK,Chesapeake Utilities,Gas Utilities,2.38%,Safe
+CSL,Carlisle Companies,Building Products,1.18%,Very Safe
+CSX,CSX Corporation,Rail Transportation,1.31%,Very Safe
+CTAS,Cintas,Diversified Support Services,0.97%,Very Safe
+FFIN,First Financial Bankshares,Regional Banks,2.55%,
+CWT,California Water Service Group,Water Utilities,1.96%,Very Safe
+DCI,Donaldson Company,Industrial Machinery and Supplies and Components,1.64%,Very Safe
+WOR,Worthington Enterprises,Household Appliances,2.49%,
+DOV,Dover,Industrial Machinery and Supplies and Components,1.44%,Very Safe
+ECL,Ecolab,Specialty Chemicals,1.12%,Very Safe
+EMN,Eastman Chemical,Specialty Chemicals,3.73%,Very Safe
+EMR,Emerson Electric,Electrical Components and Equipment,2.38%,Safe
+ERIE,Erie Indemnity Company,Property and Casualty Insurance,1.57%,Safe
+ES,Eversource Energy,Electric Utilities,4.47%,Very Safe
+ETN,Eaton,Electrical Components and Equipment,1.51%,Very Safe
+EVR,Evercore,Investment Banking and Brokerage,2.00%,Safe
+EXPD,Expeditors International of Washington,Air Freight and Logistics,1.14%,Very Safe
+FAST,Fastenal,Trading Companies and Distributors,2.28%,Very Safe
+FDS,FactSet,Financial Exchanges and Data,0.88%,Very Safe
+FELE,Franklin Electric Co.,Industrial Machinery and Supplies and Components,0.99%,Very Safe
+FUL,H.B. Fuller,Specialty Chemicals,1.05%,Safe
+GD,General Dynamics,Aerospace and Defense,2.10%,Very Safe
+GGG,Graco,Industrial Machinery and Supplies and Components,1.24%,Very Safe
+GL,Globe Life,Life and Health Insurance,0.73%,Very Safe
+HI,Hillenbrand,Industrial Machinery and Supplies and Components,2.24%,
+GLW,Corning,Electronic Components,3.94%,Safe
+GNTX,Gentex Corporation,Automotive Parts and Equipment,1.56%,Very Safe
+GPC,Genuine Parts Company,Distributors,2.80%,Safe
+GRC,Gorman-Rupp Company,Industrial Machinery and Supplies and Components,2.17%,Safe
+GWW,W.W. Grainger,Trading Companies and Distributors,0.93%,Very Safe
+HD,Home Depot,Home Improvement Retail,2.57%,Very Safe
+HEI,HEICO,Aerospace and Defense,0.11%,Very Safe
+HON,Honeywell,Industrial Conglomerates,2.18%,Very Safe
+HPQ,HP,"Technology Hardware, Storage and Peripherals",3.79%,Safe
+HRL,Hormel Foods,Packaged Foods and Meats,3.61%,Very Safe
+HSY,Hershey,Packaged Foods and Meats,2.54%,Very Safe
+HUBB,Hubbell,Electrical Components and Equipment,1.60%,Very Safe
+IEX,IDEX Corporation,Industrial Machinery and Supplies and Components,1.27%,Very Safe
+MCHP,Microchip Technology Incorporated,Semiconductors,2.07%,Borderline Safe
+UMBF,UMB Financial,Regional Banks,2.03%,Borderline Safe
+ITT,ITT,Industrial Machinery and Supplies and Components,1.05%,Very Safe
+ITW,Illinois Tool Works,Industrial Machinery and Supplies and Components,2.29%,Very Safe
+JBHT,J.B. Hunt Transport Services,Cargo Ground Transportation,0.89%,Very Safe
+JJSF,J&J Snack Foods,Packaged Foods and Meats,1.72%,Very Safe
+JKHY,Jack Henry & Associates,Transaction and Payment Processing Services,1.27%,Very Safe
+JNJ,Johnson & Johnson,Pharmaceuticals,3.00%,Very Safe
+KLAC,KLA Corporation,Semiconductor Materials and Equipment,1.06%,Safe
+GATX,GATX Corporation,Trading Companies and Distributors,1.97%,
+KO,Coca-Cola,Soft Drinks and Non-alcoholic Beverages,3.14%,Safe
+KR,Kroger,Food Retail,2.60%,Safe
+LANC,Lancaster,Packaged Foods and Meats,2.13%,Very Safe
+LECO,Lincoln Electric,Industrial Machinery and Supplies and Components,1.40%,Very Safe
+LHX,L3Harris Technologies,Aerospace and Defense,2.29%,Safe
+ASH,Ashland,Specialty Chemicals,1.87%,
+LII,Lennox International,Building Products,1.05%,Very Safe
+LMT,Lockheed Martin,Aerospace and Defense,2.82%,Very Safe
+LNT,Alliant Energy,Electric Utilities,3.53%,Safe
+LOW,Lowe's,Home Improvement Retail,2.12%,Very Safe
+MAN,Manpower Group,Human Resource and Employment Services,3.88%,Safe
+MATW,Matthews International,Diversified Support Services,2.77%,Safe
+MCD,McDonald's,Restaurants,2.33%,Safe
+MCK,McKesson,Health Care Distributors,0.54%,Very Safe
+MCO,Moody's,Financial Exchanges and Data,0.82%,Very Safe
+MDT,Medtronic,Health Care Equipment,3.50%,Very Safe
+MGEE,MGE Energy,Electric Utilities,2.30%,Very Safe
+MGRC,McGrath RentCorp,Trading Companies and Distributors,1.82%,Very Safe
+MKC,McCormick & Company,Packaged Foods and Meats,2.52%,Safe
+MKTX,MarketAxess,Financial Exchanges and Data,1.13%,Very Safe
+MMC,Marsh & McLennan Companies,Insurance Brokers,1.44%,Safe
+MRK,Merck,Pharmaceuticals,2.90%,Very Safe
+MSA,MSA Safety Incorporated,Office Services and Supplies,1.08%,Very Safe
+MSEX,Middlesex Water Company,Water Utilities,1.92%,Very Safe
+MSFT,Microsoft,Systems Software,0.80%,Very Safe
+NDSN,Nordson Corporation,Industrial Machinery and Supplies and Components,1.14%,Very Safe
+NEE,NextEra Energy,Electric Utilities,3.18%,Very Safe
+NKE,Nike,Footwear,1.27%,Very Safe
+NOC,Northrop Grumman,Aerospace and Defense,1.57%,Safe
+NSP,Insperity,Human Resource and Employment Services,1.97%,Safe
+NUE,Nucor,Steel,1.23%,Very Safe
+ORCL,Oracle,Systems Software,1.39%,Very Safe
+PAYX,Paychex,Human Resource and Employment Services,2.88%,Safe
+PB,Prosperity Bancshares,Regional Banks,3.52%,Very Safe
+PEP,PepsiCo,Soft Drinks and Non-alcoholic Beverages,3.01%,Very Safe
+PG,Procter & Gamble,Household Products,2.56%,Very Safe
+PII,Polaris,Leisure Products,3.02%,Safe
+PKG,Packaging Corporation of America,Paper and Plastic Packaging Products and Materials,3.02%,Safe
+HIFS,Hingham Institution for Savings,Regional Banks,1.48%,
+POOL,Pool Corp,Distributors,1.23%,Safe
+PPG,PPG Industries,Specialty Chemicals,1.81%,Very Safe
+PRGO,Perrigo Company,Pharmaceuticals,3.53%,Safe
+QCOM,Qualcomm,Semiconductors,2.42%,Safe
+ANDE,Andersons,Food Distributors,1.41%,
+RGA,Reinsurance Group of America,Reinsurance,2.09%,Very Safe
+RGLD,Royal Gold,Gold,1.35%,Safe
+RHI,Robert Half,Human Resource and Employment Services,2.33%,Very Safe
+RJF,Raymond James,Investment Banking and Brokerage,1.71%,Very Safe
+RLI,RLI Corp.,Property and Casualty Insurance,0.78%,Very Safe
+ROK,Rockwell Automation,Electrical Components and Equipment,1.81%,Safe
+ROP,Roper Technologies,Application Software,0.56%,Very Safe
+RPM,RPM International,Specialty Chemicals,1.72%,Safe
+RRX,Regal Rexnord Corporation,Electrical Components and Equipment,1.12%,Safe
+RS,Reliance Steel & Aluminum Co.,Steel,1.48%,Safe
+RSG,Republic Services,Environmental and Facilities Services,1.32%,Safe
+RTX,RTX Corporation,Aerospace and Defense,2.84%,Safe
+SBUX,Starbucks,Restaurants,2.37%,Safe
+SCI,Service Corporation International,Specialized Consumer Services,1.80%,Safe
+SCL,Stepan Company,Specialty Chemicals,1.73%,Very Safe
+SEIC,SEI Investments Company,Asset Management and Custody Banks,1.43%,Very Safe
+SHW,Sherwin-Williams,Specialty Chemicals,0.85%,Very Safe
+PRI,Primerica,Life and Health Insurance,1.22%,
+SJM,J.M. Smucker,Packaged Foods and Meats,3.65%,Safe
+SJW,SJW Group,Water Utilities,2.25%,Very Safe
+LNN,Lindsay,Agricultural and Farm Machinery,1.17%,
+SLGN,Silgan Holdings,"Metal, Glass and Plastic Containers",1.70%,Safe
+SNA,Snap-on,Industrial Machinery and Supplies and Components,2.67%,Very Safe
+SON,Sonoco Products,Paper and Plastic Packaging Products and Materials,3.74%,Safe
+SPGI,S&P Global,Financial Exchanges and Data,0.85%,Very Safe
+SRCE,1st Source Corporation,Regional Banks,2.70%,Very Safe
+STE,STERIS plc,Health Care Equipment,1.05%,Very Safe
+SWK,Stanley Black & Decker,Industrial Machinery and Supplies and Components,3.50%,Safe
+SXT,Sensient Technologies Corporation,Specialty Chemicals,2.72%,Very Safe
+LFUS,Littelfuse,Electronic Components,1.07%,
+SYBT,Stock Yards Bancorp,Regional Banks,2.55%,Very Safe
+SYK,Stryker,Health Care Equipment,1.10%,Very Safe
+SYY,Sysco,Food Distributors,2.72%,Safe
+TEL,TE Connectivity Ltd.,Electronic Manufacturing Services,1.81%,Very Safe
+TGT,Target,Consumer Staples Merchandise Retail,3.29%,Very Safe
+THG,Hanover Insurance Group,Property and Casualty Insurance,2.66%,Safe
+THO,THOR Industries,Automobile Manufacturers,1.86%,Safe
+TNC,Tennant Company,Industrial Machinery and Supplies and Components,1.30%,Safe
+HWKN,Hawkins,Commodity Chemicals,0.99%,
+TR,Tootsie Roll,Packaged Foods and Meats,1.05%,Very Safe
+KWR,Quaker Chemical Corporation,Specialty Chemicals,0.97%,
+TROW,T. Rowe Price,Asset Management and Custody Banks,4.82%,Safe
+TRV,Travelers Companies,Property and Casualty Insurance,2.18%,Safe
+TSCO,Tractor Supply,Other Specialty Retail,1.98%,Safe
+TT,Trane Technologies,Building Products,1.31%,Safe
+SXI,Standex International Corporation,Industrial Machinery and Supplies and Components,0.87%,
+TTC,Toro,Agricultural and Farm Machinery,1.66%,Very Safe
+TXN,Texas Instruments,Semiconductors,3.26%,Very Safe
+UNH,UnitedHealth,Managed Health Care,1.37%,Very Safe
+UNP,Union Pacific,Rail Transportation,2.23%,Very Safe
+UPS,United Parcel Service,Air Freight and Logistics,4.20%,Safe
+V,Visa,Transaction and Payment Processing Services,0.81%,Very Safe
+WDFC,WD-40 Company,Household Products,1.38%,Safe
+LAD,Lithia Motors,Automotive Retail,0.74%,Borderline Safe
+RNR,RenaissanceRe Holdings Ltd.,Reinsurance,0.73%,
+WEC,WEC Energy,Multi-Utilities,3.73%,Very Safe
+WLK,Westlake Corporation,Commodity Chemicals,1.52%,Very Safe
+WLY,John Wiley & Sons,Publishing,4.75%,Safe
+WM,Waste Management,Environmental and Facilities Services,1.62%,Safe
+AEL,American Equity,Life and Health Insurance,0.65%,
+WMT,Walmart,Consumer Staples Merchandise Retail,1.46%,Very Safe
+WRB,W. R. Berkley Corporation,Property and Casualty Insurance,0.60%,Very Safe
+MORN,Morningstar,Financial Exchanges and Data,0.58%,
+WSM,Williams-Sonoma,Homefurnishing Retail,1.83%,Safe
+WST,West Pharmaceutical Services,Life Sciences Tools and Services,0.23%,Very Safe
+WTRG,Essential Utilities,Water Utilities,3.43%,Very Safe
+CHDN,Churchill Downs,Casinos and Gaming,0.33%,
+DDS,Dillard's,Broadline Retail,0.28%,
+CHE,Chemed Corporation,Health Care Services,0.28%,
+XEL,Xcel Energy,Electric Utilities,3.41%,Safe
+ENSG,Ensign Group,Health Care Facilities,0.21%,
+YORW,York Water Company,Water Utilities,2.15%,Safe
